@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Ashwin raj
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python pogramming.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-contact mail id: ar4075704@gmail.com
 
 <!---
 Dekulight/Dekulight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
