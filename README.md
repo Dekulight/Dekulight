@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dekulight
+- 👋 Hi, I’m Ashwin raj
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python pogramming.
 - 💞️ I’m looking to collaborate on ...
